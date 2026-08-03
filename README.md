@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rizwana Zahoor</h1>
 
-<h3 align="center">🤖 I don't just test software — I make testing intelligent.</h3>
+<h3 align="center">🤖 I don't just test software , I make testing intelligent.</h3>
 
 <h4 align="center">Senior Principal Software Quality Engineer &nbsp;|&nbsp; 13+ Years &nbsp;|&nbsp; AI-Enabled QA & Test Automation</h4>
 
@@ -20,10 +20,10 @@
 ## 🚀 Featured Projects
 
 ### 🤖 Zero Human Touch Pipeline
-An agentic QA system triggered by a Jira story — Claude API generates a web app, Playwright runs self-healing tests, deploys to Vercel, sends an HTML+PDF report, and closes the Jira ticket. No human involved.
+An agentic QA system triggered by a Jira story where Claude API generates a web app, Playwright runs self-healing tests, deploys to Vercel, sends an HTML+PDF report, and closes the Jira ticket. No human involved.
 
 ### 🔬 AI Test Case Generator
-n8n workflow integrating Claude API + Linear/Jira —
+n8n workflow integrating Claude API + Linear/Jira 
 
 <p align="center">
   <a href="https://rizwanazahoor.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
@@ -41,7 +41,7 @@ n8n workflow integrating Claude API + Linear/Jira —
 An agentic QA system triggered by a Jira story — Claude API generates a web app, Playwright runs self-healing tests, deploys to Vercel, sends an HTML+PDF report, and closes the Jira ticket. No human involved.
 
 ### 🔬 AI Test Case Generator
-n8n workflow integrating Claude API + Linear/Jira — automatically generates structured test cases from user stories on ticket creation.
+n8n workflow integrating Claude API + Linear/Jira  automatically generates structured test cases from user stories on ticket creation.
 
 ### 📡 Playwright API Automation Framework
 Production-grade API testing framework with fixture-based BaseSOM architecture, response time thresholds, DB cleanup patterns, and reusable payload factories.
@@ -67,10 +67,10 @@ Production-grade API testing framework with fixture-based BaseSOM architecture, 
 ## 🚀 Featured Projects
 
 ### 🤖 Zero Human Touch Pipeline
-An agentic QA system triggered by a Jira story — Claude API generates a web app, Playwright runs self-healing tests, deploys to Vercel, sends an HTML+PDF report, and closes the Jira ticket. No human involved.
+An agentic QA system triggered by a Jira story where Claude API generates a web app, Playwright runs self-healing tests, deploys to Vercel, sends an HTML+PDF report, and closes the Jira ticket. No human involved.
 
 ### 🔬 AI Test Case Generator
-n8n workflow integrating Claude API + Linear/Jira — automatically generates structured test cases from user stories on ticket creation.
+n8n workflow integrating Claude API + Linear/Jira automatically generates structured test cases from user stories on ticket creation.
 
 ### 📡 Playwright API Automation Framework
 Production-grade API testing framework with fixture-based BaseSOM architecture, response time thresholds, DB cleanup patterns, and reusable payload factories.
