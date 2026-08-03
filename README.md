@@ -22,6 +22,16 @@ Jira · GitHub Actions · Vercel · PostgreSQL
 
 ---
 
+## 🎓 Certifications
+
+- One Million Prompts (OMP)
+- Anthropic Claude Code 101
+- Introduction to Model Context Protocol
+- Claude Code in Action
+- Scrum Fundamentals Certified (SFC)
+
+  
+
 ## 🏗️ Industries
 
 Fintech · Healthcare · SaaS · Enterprise Platforms
