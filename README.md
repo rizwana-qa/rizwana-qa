@@ -64,6 +64,8 @@ A personal portfolio built and deployed on Vercel featuring work experience, cer
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_CloudWatch-FF9900?style=flat&logo=amazonaws&logoColor=white"/>
 </p>
 
 <br/>
