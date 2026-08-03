@@ -112,13 +112,5 @@ Production-grade API testing framework with fixture-based BaseSOM architecture, 
 - ✅ Scrum Fundamentals Certified (SFC)
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rizwana-qa&show_icons=true&theme=dark&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwana-qa&layout=compact&theme=dark&hide_border=true" width="38%"/>
-</p>
-
----
 
 <p align="center"><i>"Quality isn't a phase — it's a pipeline."</i></p>
