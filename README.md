@@ -1,17 +1,29 @@
-<h1 align="center">Hi, I'm Rizwana Zahoor</h1>
+<h1 align="center">Hi 👋, I'm Rizwana Zahoor</h1>
+
+<h3 align="center">🤖 I don't just test software — I make testing intelligent.</h3>
+
+<h4 align="center">Senior Principal Software Quality Engineer &nbsp;|&nbsp; 13+ Years &nbsp;|&nbsp; AI-Enabled QA & Test Automation</h4>
 
 <p align="center">
-  <i>🤖 I don't just test software — I make testing intelligent.</i>
-</p>
-
-<p align="center">
-  <b>Senior Principal Software Quality Engineer &nbsp;|&nbsp; 13+ Years &nbsp;|&nbsp; AI-Enabled QA & Test Automation</b>
-</p>
-
-<p align="center">
-  I lead quality engineering initiatives across fintech, healthcare, and SaaS <br/>
+  I lead quality engineering initiatives across fintech, healthcare, and SaaS —<br/>
   specializing in API test automation, agentic QA pipelines, and AI/LLM validation at scale.
 </p>
+
+<p align="center">
+  <a href="https://rizwanazahoor.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/rizwana-zahoor-principal-sqa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+<br/>
+
+## 🚀 Featured Projects
+
+### 🤖 Zero Human Touch Pipeline
+An agentic QA system triggered by a Jira story — Claude API generates a web app, Playwright runs self-healing tests, deploys to Vercel, sends an HTML+PDF report, and closes the Jira ticket. No human involved.
+
+### 🔬 AI Test Case Generator
+n8n workflow integrating Claude API + Linear/Jira —
 
 <p align="center">
   <a href="https://rizwanazahoor.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
