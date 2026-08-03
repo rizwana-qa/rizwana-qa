@@ -1,13 +1,13 @@
 Hi, I'm Rizwana Zahoor
 🤖 I don't just test software, I make testing intelligent.
-🤖 Teaching machines to test themselves.
+
  
 <p align="center">
   <b>Senior Principal Software Quality Engineer | 13+ Years | AI-Enabled QA & Test Automation</b>
 </p>
 
 <p align="center">
-  I lead quality engineering initiatives across fintech, healthcare, and SaaS — specializing in API test automation, agentic QA pipelines, and AI/LLM validation at scale.
+  I lead quality engineering initiatives across fintech, healthcare, and SaaS specializing in API test automation, agentic QA pipelines, and AI/LLM validation at scale.
 </p>
 
 <p align="center">
