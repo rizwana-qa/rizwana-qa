@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Rizwana Zahoor</h1>
 
-<h3 align="center">🤖 I don't just test software — I make testing intelligent.</h3>
+<h3 align="center">🤖 I don't just test software. I make testing intelligent.</h3>
 
 <h4 align="center">Senior Principal Software Quality Engineer &nbsp;|&nbsp; 13+ Years &nbsp;|&nbsp; AI-Enabled QA & Test Automation</h4>
 
 <p align="center">
-  I lead quality engineering initiatives across fintech, healthcare, and SaaS —<br/>
+  I lead quality engineering initiatives across fintech, healthcare, and SaaS<br/>
   specializing in API test automation, agentic QA pipelines, and AI/LLM validation at scale.
 </p>
 
@@ -21,13 +21,17 @@
 ## 🚀 Featured Projects
 
 ### 🤖 Zero Human Touch Pipeline
-An agentic QA system triggered by a Jira story — Claude API generates a web app, Playwright runs self-healing tests, deploys to Vercel, sends an HTML+PDF report, and closes the Jira ticket. No human involved.
+An agentic QA system triggered by a Jira story. Claude API generates a web app, Playwright runs self-healing tests, deploys to Vercel, sends an HTML+PDF report, and closes the Jira ticket. No human involved.
 
 ### 🔬 AI Test Case Generator
-n8n workflow integrating Claude API + Linear/Jira — automatically generates structured test cases from user stories on ticket creation.
+n8n workflow integrating Claude API + Linear/Jira. Automatically generates structured test cases from user stories on ticket creation.
 
 ### 📡 Playwright API Automation Framework
 Production-grade API testing framework with fixture-based BaseSOM architecture, response time thresholds, DB cleanup patterns, and reusable payload factories.
+
+### 🎯 Interactive CV Dashboard
+A fully interactive Candidate Skills Dashboard built and deployed on Vercel. Showcasing QA expertise, tech stack, and experience in a dynamic web format beyond a traditional PDF resume.
+🔗 [Live Demo](https://rizwana-curriculum-vitae.vercel.app/)
 
 <br/>
 
@@ -72,4 +76,4 @@ Production-grade API testing framework with fixture-based BaseSOM architecture, 
 
 <br/>
 
-<p align="center"><i>"Quality isn't a phase — it's a pipeline."</i></p>
+<p align="center"><i>Quality is not a phase. It is a pipeline.</i></p>
