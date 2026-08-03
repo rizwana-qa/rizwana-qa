@@ -33,6 +33,10 @@ Production-grade API testing framework with fixture-based BaseSOM architecture, 
 A fully interactive Candidate Skills Dashboard built and deployed on Vercel. Showcasing QA expertise, tech stack, and experience in a dynamic web format beyond a traditional PDF resume.
 🔗 [Live Demo](https://rizwana-curriculum-vitae.vercel.app/)
 
+### 🌐 Personal Portfolio Website
+A fully custom portfolio site built and deployed on Vercel. Features work experience, certifications, featured projects, awards, and a contact section — all in one professional web presence.
+🔗 [Live Demo](https://rizwanazahoor.vercel.app/)
+
 <br/>
 
 ## 🧠 What I Specialize In
