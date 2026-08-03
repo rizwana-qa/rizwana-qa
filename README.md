@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Rizwana Zahoor</h1>
-
+Hi, I'm Rizwana Zahoor
+🤖 I don't just test software, I make testing intelligent.
+🤖 Teaching machines to test themselves.
+ 
 <p align="center">
-  <b>Principal Software Quality Engineer · AI-Enabled QA · 13+ Years Experience</b>
+  <b>Senior Principal Software Quality Engineer | 13+ Years | AI-Enabled QA & Test Automation</b>
 </p>
 
 <p align="center">
-  Building QA pipelines that run themselves 🤖 · From Jira ticket to closed — zero human touch 🚀
+  I lead quality engineering initiatives across fintech, healthcare, and SaaS — specializing in API test automation, agentic QA pipelines, and AI/LLM validation at scale.
 </p>
 
 <p align="center">
