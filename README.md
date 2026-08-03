@@ -36,7 +36,7 @@ Production-grade API testing framework with fixture-based BaseSOM architecture, 
 - 🧪 **API Test Automation** — Playwright, fixture architecture, edge case coverage
 - 🤖 **AI/LLM Testing** — RAG validation, hallucination detection, output consistency
 - ⚙️ **QA Workflow Automation** — n8n, flaky test tracking, release readiness reports
-- 🏥 **Domains** — Fintech · Healthcare · SaaS · Enterprise
+- 🏥 **Domains** — Fintech · Healthcare · SaaS · Enterprise · Real Estate · Telecom 
 
 ---
 
