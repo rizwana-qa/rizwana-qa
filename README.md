@@ -1,57 +1,76 @@
-# Hi, I'm Rizwana Zahoor 👋
+<h1 align="center">Hi 👋, I'm Rizwana Zahoor</h1>
 
-**Principal Software Quality Engineer** · 13+ years in QA .
+<p align="center">
+  <b>Principal Software Quality Engineer · AI-Enabled QA · 13+ Years Experience</b>
+</p>
 
-I build AI-enabled QA systems that reduce human intervention — from automated test generation to full agentic pipelines that open a Jira ticket and close it without a human ever touching it.
+<p align="center">
+  Building QA pipelines that run themselves 🤖 · From Jira ticket to closed — zero human touch 🚀
+</p>
+
+<p align="center">
+  <a href="https://rizwanazahoor.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/YOUR_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://youtube.com/@HugsWithBugs"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+</p>
 
 ---
 
-## 🧠 What I do
+## 🚀 Featured Projects
 
-- **Agentic QA Pipelines** — End-to-end automation: Jira triggers → Claude API generates app → Playwright runs self-healing tests → deploys to Vercel → sends HTML/PDF report → closes ticket. Zero human touch.
-- **API Test Automation** — Production-grade Playwright frameworks with fixture-based architecture, response time thresholds, DB cleanup patterns, and payload factories
-- **AI/LLM Testing** — RAG pipeline validation, hallucination detection, output consistency testing for AI-driven features
-- **QA Workflow Automation** — n8n workflows for test case generation, coverage gap detection, flaky test tracking, and release readiness reports
+### 🤖 Zero Human Touch Pipeline
+An agentic QA system triggered by a Jira story — Claude API generates a web app, Playwright runs self-healing tests, deploys to Vercel, sends an HTML+PDF report, and closes the Jira ticket. No human involved.
+
+### 🔬 AI Test Case Generator
+n8n workflow integrating Claude API + Linear/Jira — automatically generates structured test cases from user stories on ticket creation.
+
+### 📡 Playwright API Automation Framework
+Production-grade API testing framework with fixture-based BaseSOM architecture, response time thresholds, DB cleanup patterns, and reusable payload factories.
+
 
 ---
 
-## 🛠️ Core Stack
+## 🧠 What I Specialize In
 
-Playwright · Claude API · MCP Server · n8n · Node.js · JavaScript/TypeScript
-Jira · GitHub Actions · Vercel · PostgreSQL
+- 🔗 **Agentic QA Pipelines** — Jira-triggered, fully automated, end-to-end
+- 🧪 **API Test Automation** — Playwright, fixture architecture, edge case coverage
+- 🤖 **AI/LLM Testing** — RAG validation, hallucination detection, output consistency
+- ⚙️ **QA Workflow Automation** — n8n, flaky test tracking, release readiness reports
+- 🏥 **Domains** — Fintech · Healthcare · SaaS · Enterprise
+
+---
+
+## 🛠️ Tech Stack
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat&logo=anthropic&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 
 ---
 
 ## 🎓 Certifications
 
-- One Million Prompts (OMP)
-- Anthropic Claude Code 101
-- Introduction to Model Context Protocol
-- Claude Code in Action
-- Scrum Fundamentals Certified (SFC)
+- ✅ One Million Prompts (OMP)
+- ✅ Anthropic Claude Code 101
+- ✅ Introduction to Model Context Protocol
+- ✅ Claude Code in Action
+- ✅ Scrum Fundamentals Certified (SFC)
+---
 
-  
+## 📊 GitHub Stats
 
-## 🏗️ Industries
-
-Fintech · Healthcare · SaaS · Enterprise Platforms
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rizwana-qa&show_icons=true&theme=dark&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizwana-qa&layout=compact&theme=dark&hide_border=true" width="38%"/>
+</p>
 
 ---
 
-## 📌 Featured Work
-
-- 🤖 **Zero Human Touch Pipeline** — Agentic QA system: Jira → code gen → test → deploy → report → ticket close
-- 🔬 **AI Test Case Generator** — n8n + Claude API + Linear integration for automatic test case creation from stories
-- 📡 **Playwright API Automation Framework** — BaseSOM fixture architecture, PR standards, reusable skill layer
-- 🎙️ **Hugs with Bugs** — YouTube channel on software testing (coming soon)
-
----
-
-## 📫 Connect
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-rizwanazahoor.vercel.app-black?style=flat&logo=vercel)](https://rizwanazahoor.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rizwana-zahoor-principal-sqa/)
-
----
-
-*"Quality isn't a phase — it's a pipeline."*
+<p align="center"><i>"Quality isn't a phase — it's a pipeline."</i></p>
