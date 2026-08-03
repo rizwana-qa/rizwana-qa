@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  I lead quality engineering initiatives across fintech, healthcare, and SaaS  <br/>
+  I lead quality engineering initiatives across fintech, healthcare, and SaaS <br/>
   specializing in API test automation, agentic QA pipelines, and AI/LLM validation at scale.
 </p>
 
