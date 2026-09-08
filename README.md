@@ -40,7 +40,7 @@ A fully interactive Candidate Skills Dashboard built and deployed on Vercel. Sho
 
 ### 🌐 Personal Portfolio Website
 A personal portfolio built and deployed on Vercel featuring work experience, certifications, projects, awards and contact information in one professional web presence.
-🔗 [Live Demo](https://rizwanazahoor.vercel.app/)
+🔗 [Live Demo](https://rizwana-zahoor-portfolio.vercel.app/)
 
 <br/>
 
