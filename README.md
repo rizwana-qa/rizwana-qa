@@ -23,7 +23,7 @@
 ### 🤖 AI QA Release Risk Agent 
 AI-powered QA agent for release risk assessment, intelligent test strategy, and quality decision support. Analyzes release context, testing evidence, and known defects to identify risk signals and help QA teams make confident release decisions.
 
-🔗 Live Demo(https://ai-qa-release-risk-agent.vercel.app/)
+🔗 [Live Demo](https://ai-qa-release-risk-agent.vercel.app/)
 
 ### 🤖 Zero Human Touch Pipeline
 An agentic QA system triggered by a Jira story. Claude API generates a web app, Playwright runs self-healing tests, deploys to Vercel, sends an HTML+PDF report, and closes the Jira ticket. No human involved.
