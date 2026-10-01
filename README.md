@@ -25,6 +25,13 @@ AI-powered QA agent for release risk assessment, intelligent test strategy, and 
 
 🔗 [Live Demo](https://ai-qa-release-risk-agent.vercel.app/)
 
+### 📚 AI Testing & Quality Engineering Playbook
+
+Three volume practical framework covering AI testing, LLM evaluation, RAG testing, AI agent testing, security, performance, observability, data quality, responsible AI, and enterprise quality engineering.
+
+🔗 [View Repository](https://github.com/rizwana-qa/AI-Testing-Quality-Engineering-Playbook)
+
+
 ### 🤖 Zero Human Touch Pipeline
 An agentic QA system triggered by a Jira story. Claude API generates a web app, Playwright runs self-healing tests, deploys to Vercel, sends an HTML+PDF report, and closes the Jira ticket. No human involved.
 
