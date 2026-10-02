@@ -40,6 +40,8 @@ n8n workflow integrating Claude API + Linear/Jira. Automatically generates struc
 
 ### 📡 Playwright API Automation Framework
 Production-grade API testing framework with fixture-based BaseSOM architecture, response time thresholds, DB cleanup patterns, and reusable payload factories.
+🔗 [Live Demo](https://github.com/rizwana-qa/playwright-ui-automation-framework)
+
 
 ### 🎯 Interactive CV Dashboard
 A fully interactive Candidate Skills Dashboard built and deployed on Vercel. Showcasing QA expertise, tech stack, and experience in a dynamic web format beyond a traditional PDF resume.
